@@ -1,0 +1,9 @@
+Faction Wardrobe - SKSE plugin
+Copyright (C) 2026 Clyde
+
+Licensed under the GNU General Public License v3.0 or later (see LICENSE).
+Source code: this repository.
+
+Built with CommonLibSSE-NG (https://github.com/alandtse/CommonLibSSE-NG),
+licensed GPL-3.0-or-later WITH Modding Exception AND GPL-3.0 Linking Exception (with Corresponding Source).
+Uses nlohmann/json (MIT) and the SKSE Menu Framework 2 API header (https://github.com/Thiago099/SKSE-Menu-Framework-2-Example).
